@@ -22,7 +22,7 @@ Execute the program
    </head>
 
    <body>
-	<img src="Logo.png"></img>
+	<img src="logo.png"></img>
       <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="grey">
          <tr>
 	     	
@@ -102,4 +102,4 @@ Execute the program
 
 ~~~
 # OUPUT
-![GitHub Logo](LOGO)
+![GitHub Logo](logo)

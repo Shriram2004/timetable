@@ -22,7 +22,7 @@ Execute the program
    </head>
 
    <body>
-	<img src="time table 7.png"></img>
+	<img src="logo.png"></img>
       <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="grey">
          <tr>
 	     	

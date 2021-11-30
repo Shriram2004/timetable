@@ -22,7 +22,7 @@ Execute the program
    </head>
 
    <body>
-	<img src="logo.png"></img>
+	<img src="time table 7.png"></img>
       <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="grey">
          <tr>
 	     	
@@ -102,4 +102,4 @@ Execute the program
 
 ~~~
 # OUPUT
-![GitHub Logo](logo)
+![GitHub Logo](time table 7)

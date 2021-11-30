@@ -102,4 +102,4 @@ Execute the program
 
 ~~~
 ## OUPUT
-![GitHub Logo](time table 7.png)
+![GitHub Logo](timetable.png)

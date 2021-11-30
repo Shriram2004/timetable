@@ -22,7 +22,7 @@ Execute the program
    </head>
 
    <body>
-	<img src="logo.png"></img>
+	<img src="Logo.png"></img>
       <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="grey">
          <tr>
 	     	
